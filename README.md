@@ -67,6 +67,7 @@ There are at least six options for dealing with [Pokémon names](data/pokemon/na
 | Subjective translation tasks                                                                              | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
 | ~[Pokémon types](data/types/names.asm)~                                                                   | ~16 / 16~   |
+| [Pokémon names](data/pokemon/names.asm)                                                                   | 25 / 151     |
 | [Pokédex descriptions](data/pokemon/dex_text.asm)                                                         | 0 / 151     |
 | [Pokédex data](data/pokemon/dex_entries.asm) (e.g. Onix = ROCK SNAKE)                                     | 0 / 151     |
 | [Item names](data/items/names.asm)                                                                        | 40 / 97     |
