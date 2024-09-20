@@ -17,17 +17,6 @@ When the translation is finished, binary patches will be released for the Englis
 
 ## Translating names
 
-### Pokémon names
-
-There are at least six options for dealing with [Pokémon names](data/pokemon/names.asm):
-
-* Use the English names verbatim. The Italian and Spanish ROMs do this.
-* Esperantize the English names. [Kaifi's Esperanto translation of FireRed](https://www.romhacking.net/translations/3648/) does this.
-* Esperantize the Japanese names: [list](https://eo.wikipedia.org/wiki/Listo_de_Pokemonoj)
-* Use the /u/Gootube2000 names: [list](https://docs.google.com/spreadsheets/d/1x4YKkc8TifWm4Tr9xMtumYaMIPs8T7EEvfHlkpzPa_Q/edit)
-* Use the Lusentoj names: [list](https://lusentoj.neocities.org/tutorials/pokered/poketrans/151names.html)
-* Use the Amika Babilfrenzo names: [list](https://eo.wikipedia.org/wiki/Uzanto:Amika_Babilfrenzo/Pokemon)
-
 ### Character names
 
 | Japanese   | English   | Spanish   | French    | German    | Italian   | Esperanto (Kaifi) |
