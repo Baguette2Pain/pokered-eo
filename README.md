@@ -56,7 +56,7 @@ When the translation is finished, binary patches will be released for the Englis
 | Subjective translation tasks                                                                              | Progress    |
 | --------------------------------------------------------------------------------------------------------- | ----------- |
 | ~[Pokémon types](data/types/names.asm)~                                                                   | ~16 / 16~   |
-| [Pokémon names](data/pokemon/names.asm)                                                                   | 25 / 151     |
+| [Pokémon names](data/pokemon/names.asm)                                                                   | 70 / 151     |
 | [Pokédex descriptions](data/pokemon/dex_text.asm)                                                         | 0 / 151     |
 | [Pokédex data](data/pokemon/dex_entries.asm) (e.g. Onix = ROCK SNAKE)                                     | 0 / 151     |
 | [Item names](data/items/names.asm)                                                                        | 40 / 97     |
