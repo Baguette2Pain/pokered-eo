@@ -1,5 +1,5 @@
 MapNames:
-PalletTownName:      db "PALLETEJO@"
+PalletTownName:      db "PALETEJO@"
 ViridianCityName:    db "VIRIDIO@"
 PewterCityName:      db "PEŬTIO@"
 CeruleanCityName:    db "CERULEANIO@"
