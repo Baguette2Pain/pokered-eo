@@ -37,18 +37,18 @@ Route24Name:         db "VOJO 24@"
 Route25Name:         db "VOJO 25@"
 ViridianForestName:  db "VIRIDIA ARBARO@"
 MountMoonName:       db "MONTO LUNO@"
-RockTunnelName:      db "ROCK TUNNEL@"
-SeaCottageName:      db "SEA COTTAGE@"
-SSAnneName:          db "S.S.ANNE@"
-PokemonLeagueName:   db "#MON LEAGUE@"
-UndergroundPathName: db "UNDERGROUND PATH@"
-PokemonTowerName:    db "#MON TOWER@"
-SeafoamIslandsName:  db "SEAFOAM ISLANDS@"
+RockTunnelName:      db "ROKA TUNELO@"
+SeaCottageName:      db "MARA DOMETO@"
+SSAnneName:          db "S.S.ANNE@"                ;
+PokemonLeagueName:   db "#MON LEAGUE@"              ;
+UndergroundPathName: db "UNDERGROUND PATH@"              ;
+PokemonTowerName:    db "#MON TURO@"  
+SeafoamIslandsName:  db "SEAFOAM ISLANDS@"              ;
 VictoryRoadName:     db "VICTORY ROAD@"
-DiglettsCaveName:    db "DIGLETT's CAVE@"
-RocketHQName:        db "ROCKET HQ@"
-SilphCoName:         db "SILPH CO.@"
-PokemonMansionName:  db "<PKMN> MANSION@"
-SafariZoneName:      db "SAFARI ZONE@"
-CeruleanCaveName:    db "CERULEAN CAVE@"
-PowerPlantName:      db "POWER PLANT@"
+DiglettsCaveName:    db "DIGDA KAVO@"              ;
+RocketHQName:        db "ROCKET HQ@"              ;
+SilphCoName:         db "SILPH CO.@"              ;
+PokemonMansionName:  db "<PKMN> MANSION@"              ;
+SafariZoneName:      db "SAFARI ZONE@"              ;
+CeruleanCaveName:    db "CERULEA KAVO@"
+PowerPlantName:      db "POWER PLANT@"              ;
