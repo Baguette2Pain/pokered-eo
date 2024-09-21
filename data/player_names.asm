@@ -10,7 +10,7 @@ DefaultNamesRival:
 	db   "NOVA NOMO"
 	next "BLUA"
 	next "VOLAPUK"
-	next "IDO"
+	next "ANGLA"
 	db   "@"
 ENDC
 
@@ -26,6 +26,6 @@ DefaultNamesRival:
 	db   "NOVA NOMO"
 	next "RUĜO"
 	next "VOLAPUK"
-	next "IDO"
+	next "ANGLA"
 	db   "@"
 ENDC
