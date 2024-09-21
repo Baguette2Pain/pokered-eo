@@ -9,7 +9,7 @@ DefaultNamesRivalList:
 	db "NOVA NOMO@"
 	db "BLUA@"
 	db "VOLAPUK@"
-	db "IDO@"
+	db "ANGLA@"
 ENDC
 
 IF DEF(_BLUE)
@@ -23,5 +23,5 @@ DefaultNamesRivalList:
 	db "NOVA NOMO@"
 	db "RUĜA@"
 	db "VOLAPUK@"
-	db "IDO@"
+	db "ANGLA@"
 ENDC
