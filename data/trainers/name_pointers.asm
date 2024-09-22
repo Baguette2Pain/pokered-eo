@@ -48,11 +48,11 @@ TrainerNamePointers:
 	dw wTrainerName
 	dw wTrainerName
 
-.YoungsterName:     db "JUNULIĈO@"    ; "YOUNGSTER"
-.BugCatcherName:    db "CIMKAPTISTO@" ; "BUG CATCHER"
-.LassName:          db "JUNULINO@"    ; "LASS"
-.JrTrainerMName:    db "JR.TRAINER♂@"
-.JrTrainerFName:    db "JR.TRAINER♀@"
+.YoungsterName:     db "JUNULIĈO@"    		; "YOUNGSTER"
+.BugCatcherName:    db "CIMKAPTISTO@" 		; "BUG CATCHER"
+.LassName:          db "JUNULINO@"    		; "LASS"
+.JrTrainerMName:    db "JUNTREJNISTO♂@"		;	"JR.TRAINER♂@"
+.JrTrainerFName:    db "JUNTREJNISTO♀@"		;	"JR.TRAINER♀@"
 .PokemaniacName:    db "POKéMANIAC@"
 .SuperNerdName:     db "SUPER NERD@"
 .BurglarName:       db "BURGLAR@"
@@ -65,7 +65,7 @@ TrainerNamePointers:
 .BlackbeltName:     db "BLACKBELT@"
 .ProfOakName:       db "PROF.OAK@"
 .ChiefName:         db "CHIEF@"
-.ScientistName:     db "SCIENTIST@"
-.RocketName:        db "ROCKET@"
+.ScientistName:     db "SCIENTISTO@"		;	SCIENTIST@"
+.RocketName:        db "RAKETULO@"		;	"ROCKET@"
 .CooltrainerMName:  db "COOLTRAINER♂@"
 .CooltrainerFName:  db "COOLTRAINER♀@"
