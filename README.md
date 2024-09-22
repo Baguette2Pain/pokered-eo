@@ -60,7 +60,7 @@ When the translation is finished, binary patches will be released for the Englis
 | [Pokédex descriptions](data/pokemon/dex_text.asm)                                                         | 52 / 151    |
 | [Pokédex data](data/pokemon/dex_entries.asm) (e.g. Onix = ROCK SNAKE)                                     | 0 / 151     |
 | [Item names](data/items/names.asm)                                                                        | 48 / 97     |
-| Move names [[1](data/moves/names.asm) ~[2](data/moves/field_move_names.asm)~]                             | 55 / 173    |
+| Move names [[1](data/moves/names.asm) ~[2](data/moves/field_move_names.asm)~]                             | 59 / 173    |
 | ~[Place names](data/maps/names.asm)~                                                                      | ~53 / 53~   |
 | ~Default player names [[1](data/player_names.asm) [2](data/player_names_list.asm)]~                       | ~6 / 6~     |
 
