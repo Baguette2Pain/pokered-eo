@@ -25,7 +25,7 @@ MoveNames::
 	db "DU PIEDOJ@"		; DOUBLE KICK@"
 	db "FORTEGAPIEDO@"	; MEGA KICK@"
 	db "SALTPIEDO@"		; JUMP KICK@"
-	db "ROLPIEDO@"		; ROLLING KICK@"
+	db "MAŬAŜI GERI@"	; ROLLING KICK@"
 	db "SAND-ATTACK@"
 	db "HEADBUTT@"
 	db "HORN ATTACK@"
