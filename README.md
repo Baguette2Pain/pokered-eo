@@ -58,7 +58,7 @@ When the translation is finished, binary patches will be released for the Englis
 | ~[Pokémon types](data/types/names.asm)~                                                                   | ~16 / 16~   |
 | ~[Pokémon names](data/pokemon/names.asm)~                                                                 | ~151 / 151~ |
 | [Pokédex descriptions](data/pokemon/dex_text.asm)                                                         | 0 / 151     |
-| [Pokédex data](data/pokemon/dex_entries.asm) (e.g. Onix = ROCK SNAKE)                                     | 52 / 151    |
+| ~[Pokédex data](data/pokemon/dex_entries.asm) (e.g. Onix = ROCK SNAKE)~                                   | ~151 / 151~ |
 | [Item names](data/items/names.asm)                                                                        | 48 / 97     |
 | Move names [[1](data/moves/names.asm) ~[2](data/moves/field_move_names.asm)~]                             | 59 / 173    |
 | ~[Place names](data/maps/names.asm)~                                                                      | ~53 / 53~   |
