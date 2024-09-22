@@ -28,7 +28,7 @@ TrainerNames::
 	db "CHIEF@"
 	db "SCIENTISTO@"	;	SCIENTIST@"
 	db "ĜIOVANIO@"		;	GIOVANNI@"
-	db "RAKETO@"		;	ROCKET@"
+	db "RAKETULO@"		;	ROCKET@"
 	db "COOLTRAINER♂@"
 	db "COOLTRAINER♀@"
 	db "BRUNO@"
