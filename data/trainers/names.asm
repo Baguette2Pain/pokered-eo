@@ -16,7 +16,7 @@ TrainerNames::
 	db "SWIMMER@"
 	db "CUE BALL@"
 	db "GAMBLER@"
-	db "BEAUTY@"
+	db "BELULINO@"		;	"BEAUTY@"
 	db "PSYCHIC@"
 	db "ROCKER@"
 	db "JUGGLER@"
