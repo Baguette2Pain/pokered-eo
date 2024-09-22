@@ -59,7 +59,7 @@ TrainerNamePointers:
 .EngineerName:      db "ENGINEER@"
 .UnusedJugglerName: db "JUGGLER@"
 .SwimmerName:       db "SWIMMER@"
-.BeautyName:        db "BEAUTY@"
+.BeautyName:        db "BELULINO@"		;	BEAUTY@"
 .RockerName:        db "ROCKER@"
 .JugglerName:       db "JUGGLER@"
 .BlackbeltName:     db "BLACKBELT@"
