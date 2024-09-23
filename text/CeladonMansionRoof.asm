@@ -1,3 +1,3 @@
 _CeladonMansion4Text1::
-	text "I KNOW EVERYTHING!"
+	text "MI SCIAS ĈION!"		;  "I KNOW EVERYTHING!"
 	done
