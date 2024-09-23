@@ -91,7 +91,7 @@ When the translation is finished, binary patches will be released for the Englis
 | [CeladonMansion1F.asm](text/CeladonMansion1F.asm)                                                         | 0 / 5       |
 | [CeladonMansion2F.asm](text/CeladonMansion2F.asm)                                                         | 0 / 1       |
 | [CeladonMansion3F.asm](text/CeladonMansion3F.asm)                                                         | 0 / 9       |
-| [CeladonMansionRoof.asm](text/CeladonMansionRoof.asm)                                                     | 0 / 1       |
+| ~[CeladonMansionRoof.asm](text/CeladonMansionRoof.asm)~                                                   | ~1 / 1~     |
 | ~[CeladonMansionRoofHouse.asm](text/CeladonMansionRoofHouse.asm)~                                         | ~1 / 1~     |
 | [CeladonMart1F.asm](text/CeladonMart1F.asm)                                                               | 0 / 3       |
 | [CeladonMart2F.asm](text/CeladonMart2F.asm)                                                               | 0 / 3       |
