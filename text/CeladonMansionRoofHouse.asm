@@ -1,10 +1,10 @@
 _CeladonMansion5Text1::
-	text "I know everything"
-	line "about the world"
-	cont "of #MON in"
-	cont "your GAME BOY!"
+	text "Mi scias ĉion"		;	I know everything"
+	line "pri la mondo"		;	about the world"
+	cont "de #MON en"		;	of #MON in"
+	cont "via GAME BOY!"
 
-	para "Get together with"
-	line "your friends and"
-	cont "trade #MON!"
+	para "Kuniĝu kun viaj"		; Get together with"
+	line "geamikoj kaj"		; your friends and"
+	cont "interŝangu #MON!"
 	done
