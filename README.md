@@ -304,7 +304,7 @@ When the translation is finished, binary patches will be released for the Englis
 | [engine/events/diploma.asm](engine/events/diploma.asm)                                                    | 0 / 4       |
 | [engine/events/evolve_trade.asm](engine/events/evolve_trade.asm)                                          | 0 / 1       |
 | [engine/events/hidden_objects/bills_house_pc.asm](engine/events/hidden_objects/bills_house_pc.asm)        | 0 / 5       |
-| [engine/events/hidden_objects/school_blackboard.asm](engine/events/hidden_objects/school_blackboard.asm)  | 0 / 10      |
+| ~[engine/events/hidden_objects/school_blackboard.asm](engine/events/hidden_objects/school_blackboard.asm)~| ~10 / 10~   |
 | [engine/events/prize_menu.asm](engine/events/prize_menu.asm)                                              | 0 / 2       |
 | [engine/events/vending_machine.asm](engine/events/vending_machine.asm)                                    | 0 / 4       |
 | [engine/items/item_effects.asm](engine/items/item_effects.asm)                                            | 0 / 17      |
