@@ -319,7 +319,7 @@ When the translation is finished, binary patches will be released for the Englis
 | [engine/menus/players_pc.asm](engine/menus/players_pc.asm)                                                | 0 / 4       |
 | [engine/menus/pokedex.asm](engine/menus/pokedex.asm)                                                      | 0 / 9       |
 | [engine/menus/save.asm](engine/menus/save.asm)                                                            | 0 / 14      |
-| [engine/menus/start_sub_menus.asm](engine/menus/start_sub_menus.asm)                                      | 0 / 4       |
+| ~[engine/menus/start_sub_menus.asm](engine/menus/start_sub_menus.asm)~                                    | ~4 / 4~     |
 | [engine/menus/text_box.asm](engine/menus/text_box.asm)                                                    | 0 / 3       |
 | [engine/movie/hall_of_fame.asm](engine/movie/hall_of_fame.asm)                                            | 0 / 6       |
 | [engine/movie/oak_speech/oak_speech2.asm](engine/movie/oak_speech/oak_speech2.asm)                        | 0 / 1       |
