@@ -53,7 +53,7 @@ _MartSignText::
 	done
 
 _PokeCenterSignText::
-	text "Kuracu vian #MON!"
+	text "Kuracu #MONojn!"
 	line "#MONa CENTRO"
 	done
 
@@ -61,7 +61,7 @@ _FoundItemText::
 	text "<PLAYER> trovas"
 	line "@"
 	text_ram wcf4b
-	text "!@"
+	text "N!@"
 	text_end
 
 _NoMoreRoomForItemText::
