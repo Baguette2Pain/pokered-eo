@@ -424,9 +424,9 @@ PrintPlayTime:
 	jp PrintNumber
 
 SaveScreenInfoText:
-	db   "LUDANTO"
+	db   "LUDANT."
 	next "INSIGNOJ  "
-	next "#DEX    "
+	next "<PK>DEKSTO"		; 	#DEX    "
 	next "TEMPO@"
 
 DisplayOptionMenu:
@@ -587,11 +587,11 @@ TextSpeedOptionText:
 
 BattleAnimationOptionText:
 	db   "BATALA ANIMACIO"
-	next "JES       NE @"
+	next " JES      NE @"
 
 BattleStyleOptionText:
 	db   "BATALA STILO"
-	next " ŜANĜI  RESTI@"
+	next " ŜANĜI    RESTI@"
 
 OptionMenuCancelText:
 	db "FORIRI@"
