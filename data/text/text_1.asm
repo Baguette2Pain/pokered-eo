@@ -53,8 +53,9 @@ _MartSignText::
 	done
 
 _PokeCenterSignText::
-	text "Kuracu #MONojn!"
-	line "#MONa CENTRO"
+	text "Kuracu viajn"
+	line "#MONojn!"
+	cont "#MONa CENTRO"
 	done
 
 _FoundItemText::
