@@ -49,7 +49,7 @@ _BoulderText::
 _MartSignText::
 	text "Plenumu vian"
 	line "inventaron!"
-	cont "#MON BUTIKO"
+	cont "#MONa BUTIKO"
 	done
 
 _PokeCenterSignText::
