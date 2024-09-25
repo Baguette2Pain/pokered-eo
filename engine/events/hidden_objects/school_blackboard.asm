@@ -39,7 +39,7 @@ LinkCableHelp::
 	bit 1, a ; pressed b
 	jr nz, .exit
 	ld a, [wCurrentMenuItem]
-	cp 3 ; pressed a on "STOP READING"
+	cp 3 ; pressed a on "HALTI LEGI"
 	jr z, .exit
 	ld hl, wd730
 	res 6, [hl]
@@ -68,10 +68,10 @@ LinkCableHelpText2:
 	text_end
 
 HowToLinkText:
-	db   "HOW TO LINK"
-	next "COLOSSEUM"
-	next "TRADE CENTER"
-	next "STOP READING@"
+	db   "KIEL LIKI"
+	next "KOLOSEO"
+	next "INTERŜANĜEJO"
+	next "HALTI LEGI@"
 
 LinkCableInfoTexts:
 	dw LinkCableInfoText1
@@ -185,14 +185,14 @@ ViridianSchoolBlackboardText2:
 	text_end
 
 StatusAilmentText1:
-	db   " SLP"
-	next " PSN"
+	db   " DOR"
+	next " VEN"
 	next " PAR@"
 
 StatusAilmentText2:
-	db   " BRN"
-	next " FRZ"
-	next " QUIT@"
+	db   " BRL"
+	next " FRS"
+	next " FORIRI@"
 
 	db "@" ; unused
 
