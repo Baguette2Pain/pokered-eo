@@ -2043,7 +2043,7 @@ DisplayBattleMenu::
 	ld a, $2 ; select the "ITEM" menu
 	jp .upperLeftMenuItemWasNotSelected
 .oldManName
-	db "OLD MAN@"
+	db "MALJUNULO@"
 .handleBattleMenuInput
 	ld a, [wBattleAndStartSavedMenuItem]
 	ld [wCurrentMenuItem], a
@@ -2898,7 +2898,7 @@ DisabledText:
 	db "disabled!@"
 
 TypeText:
-	db "TYPE@"
+	db "TYPO@"
 
 SelectEnemyMove:
 	ld a, [wLinkState]
