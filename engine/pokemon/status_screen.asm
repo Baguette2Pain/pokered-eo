@@ -400,7 +400,7 @@ StatusScreen2:
 	ld [wLoadedMonLevel], a ; Increase temporarily if not 100
 .Level100
 	hlcoord 14, 6
-	ld [hl], "<to>"
+	ld [hl], "<por>"
 	inc hl
 	inc hl
 	call PrintLevel
@@ -465,7 +465,7 @@ CalcExpToLevelUp:
 
 StatusScreenExpText:
 	db   "SPERTPOEN."
-	next "SEKV.NIVE.@"
+	next "SEKVA NIV.@"
 
 StatusScreen_ClearName:
 	ld bc, 10
