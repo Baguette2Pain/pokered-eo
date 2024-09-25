@@ -8,7 +8,7 @@ DrawHPBar::
 	push bc
 
 	; Left
-	ld a, $71 ; "HP:"
+	ld a, $71 ; "VP:"
 	ld [hli], a
 	ld a, $62
 	ld [hli], a
