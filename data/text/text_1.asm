@@ -4,13 +4,13 @@ _CardKeySuccessText1::
 
 _CardKeySuccessText2::
 	text_start
-	line "The CARD KEY"
-	cont "opened the door!"
+	line "La ELEKTROKARTO"
+	cont "malfermas ĝin!"
 	done
 
 _CardKeyFailText::
-	text "Darn! It needs a"
-	line "CARD KEY!"
+	text "Ve! Ĝi bezonas"
+	line "ELEKTROKARTON!"
 	done
 
 _TrainerNameText::
@@ -19,17 +19,17 @@ _TrainerNameText::
 	text_end
 
 _NoNibbleText::
-	text "Not even a nibble!"
+	text "Eĉ neniu fiŝeto!"
 	prompt
 
 _NothingHereText::
-	text "Looks like there's"
-	line "nothing here."
+	text "Ŝajnas ke nenio"
+	line "estas ĉi tie"
 	prompt
 
 _ItsABiteText::
-	text "Oh!"
-	line "It's a bite!"
+	text "Ho!"
+	line "Estas POKéMONo!"
 	prompt
 
 _ExclamationText::
@@ -37,28 +37,28 @@ _ExclamationText::
 	done
 
 _GroundRoseText::
-	text "Ground rose up"
-	line "somewhere!"
+	text "Grundo leviĝas"
+	line "ie!"
 	done
 
 _BoulderText::
-	text "This requires"
-	line "STRENGTH to move!"
+	text "Vi ne povas movi"
+	line "ĝin sen FORTECO!"
 	done
 
 _MartSignText::
-	text "All your item"
-	line "needs fulfilled!"
-	cont "#MON MART"
+	text "Plenumu vian"
+	line "inventaro!"
+	cont "#MON BUTIKO"
 	done
 
 _PokeCenterSignText::
-	text "Heal Your #MON!"
-	line "#MON CENTER"
+	text "Kuracu vian #MON!"
+	line "#MONa CENTRO"
 	done
 
 _FoundItemText::
-	text "<PLAYER> found"
+	text "<PLAYER> trovas"
 	line "@"
 	text_ram wcf4b
 	text "!@"
