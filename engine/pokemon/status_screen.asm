@@ -221,7 +221,7 @@ OTText:
 	next "@"
 
 StatusText:
-	db "STATUSO/@"
+	db "STATO/@"
 
 OKText:
 	db "OK@"
@@ -464,8 +464,8 @@ CalcExpToLevelUp:
 	ret
 
 StatusScreenExpText:
-	db   "SPERTPOENT."
-	next "SEKV.NIVEL.@"
+	db   "SPERTPOEN."
+	next "SEKV.NIVE.@"
 
 StatusScreen_ClearName:
 	ld bc, 10
