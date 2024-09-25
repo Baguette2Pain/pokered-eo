@@ -44,7 +44,7 @@ ItemNames::
 	db "ELIKOFOSILIO@"	; HELIX FOSSIL@"
 	db "FAJROŜLOSILO@"	; SECRET KEY@"
 	db "?????@"           	; =
-	db "BIKE VOUCHER@"
+	db "BICIKLKUPONO@"	; BIKE VOUCHER@"
 	db "PLIPRECIZILO@"    ; "X ACCURACY"
 	db "FOLIŜTONO@"       ; "LEAF STONE"
 	db "ELEKTROKARTO@"	; CARD KEY@"
