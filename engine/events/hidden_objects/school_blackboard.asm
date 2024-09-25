@@ -192,7 +192,7 @@ StatusAilmentText1:
 StatusAilmentText2:
 	db   " BRL"
 	next " FRS"
-	next " FORIRI@"
+	next " EK@"
 
 	db "@" ; unused
 
