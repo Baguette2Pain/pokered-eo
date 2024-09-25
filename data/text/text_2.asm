@@ -120,7 +120,7 @@ _YeahText::
 	text_end
 
 _DexSeenOwnedText::
-	text "#DEX Viditaj:@"
+	text "<PK>DEKSTO; Viditaj:@"
 	text_decimal wDexRatingNumMonsSeen, 1, 3
 	text_start
 	line "      Kaptitaj:@"
@@ -128,7 +128,7 @@ _DexSeenOwnedText::
 	text_end
 
 _DexRatingText::
-	text "#DEX Grado<COLON>"
+	text "<PK>DEKSTa Grado<COLON>"
 	done
 
 _GymStatueText1::
