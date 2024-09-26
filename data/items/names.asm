@@ -3,7 +3,7 @@ ItemNames::
 	db "MAJSTRA <PK>UJO@" ; "MASTER BALL"
 	db "BONEGA <PK>UJO@"  ; "ULTRA BALL"
 	db "BONA <PK>UJO@"    ; "GREAT BALL"
-	db "<PK>UJO@"      	; "POKéBALL"
+	db "POKéUJO@"      	; "POKéBALL"
 	db "URBETO MAPO@"     ; "TOWN MAP"
 	db "BICIKLO@"         ; "BICYCLE"
 	db "?????@"           ; =
