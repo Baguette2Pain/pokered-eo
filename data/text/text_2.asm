@@ -157,10 +157,10 @@ _GymStatueText2::
 	done
 
 _ViridianCityPokecenterGuyText::
-	text "#MON CENTERs"
-	line "heal your tired,"
-	cont "hurt or fainted"
-	cont "#MON!"
+	text "#MONa CENTRO"
+	line "Kuracu viajn"
+	cont "lacajn aŭ vundiajn"
+	cont "#MONojn!"
 	done
 
 _PewterCityPokecenterGuyText::
