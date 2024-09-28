@@ -426,7 +426,7 @@ PrintPlayTime:
 SaveScreenInfoText:
 	db   "LUDANT."
 	next "INSIGNOJ  "
-	next "<PK>DEKSTO"		; 	#DEX    "
+	next "<PK>DEKSO"		; 	#DEX    "
 	next "TEMPO@"
 
 DisplayOptionMenu:
