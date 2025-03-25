@@ -89,7 +89,7 @@ When the translation is finished, binary patches will be released for the Englis
 | [CeladonGym.asm](text/CeladonGym.asm)                                                                     | 0 / 28      |
 | [CeladonHotel.asm](text/CeladonHotel.asm)                                                                 | 0 / 3       |
 | [CeladonMansion1F.asm](text/CeladonMansion1F.asm)                                                         | 0 / 5       |
-| [CeladonMansion2F.asm](text/CeladonMansion2F.asm)                                                         | 0 / 1       |
+| [CeladonMansion2F.asm](text/CeladonMansion2F.asm)                                                         | ~0 / 1~     |
 | [CeladonMansion3F.asm](text/CeladonMansion3F.asm)                                                         | 0 / 9       |
 | ~[CeladonMansionRoof.asm](text/CeladonMansionRoof.asm)~                                                   | ~1 / 1~     |
 | ~[CeladonMansionRoofHouse.asm](text/CeladonMansionRoofHouse.asm)~                                         | ~1 / 1~     |
